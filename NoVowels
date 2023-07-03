@@ -1,0 +1,9 @@
+def notvowels(string):
+    vowels=["a","i","e","o","u"]
+    newstring=""
+    for char in string:
+        if char not in vowels:
+            newstring+=char
+    return newstring
+string=input('Enter a String: ')
+print(notvowels(string))
