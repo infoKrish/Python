@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Webpage Layout</title>
+  <style>
+    /* CSS styles */
+    body {
+      margin: 0;
+      padding: 0;
+    }
+    
+    header {
+      background-color: #87CEEB;
+      text-align: center;
+      padding: 20px;
+    }
+    
+    main {
+      padding: 20px;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Header</h1>
+  </header>
+  
+  <main>
+    <h2>Main Content</h2>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed fermentum ipsum quis sagittis consequat. Donec ultricies cursus tristique. Aliquam convallis sem vitae erat volutpat convallis. Curabitur a dui ultricies, scelerisque mi eu, tempus dolor. Sed lobortis feugiat urna vitae elementum. Integer sagittis volutpat eleifend. Pellentesque sit amet facilisis nunc. Nulla rutrum sem turpis, vitae tincidunt ex condimentum et. Maecenas suscipit, felis vel varius gravida, tortor tortor dictum augue, nec dapibus metus libero sed ex.</p>
+  </main>
+</body>
+</html>
